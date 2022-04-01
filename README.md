@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[6 buttons](https://www.dropbox.com/s/zv7f03sraa3ougk/gif_6buttons.gif?dl=0)
-[Start Game](https://www.dropbox.com/s/gw4597pwubq1cbt/gif_startgame.gif?dl=0)
-[Loss after 3 attempts](https://www.dropbox.com/s/ytzotih8lw3e1k0/gif_loss_3attempts.gif?dl=0)
-[Win!](https://www.dropbox.com/s/icey46thejnfvlt/gif_win.gif?dl=0)
+- [6 buttons](https://www.dropbox.com/s/zv7f03sraa3ougk/gif_6buttons.gif?dl=0)
+- [Start Game](https://www.dropbox.com/s/gw4597pwubq1cbt/gif_startgame.gif?dl=0)
+- [Loss after 3 attempts](https://www.dropbox.com/s/ytzotih8lw3e1k0/gif_loss_3attempts.gif?dl=0)
+- [Win!](https://www.dropbox.com/s/icey46thejnfvlt/gif_win.gif?dl=0)
 
 ## Reflection Questions
 
