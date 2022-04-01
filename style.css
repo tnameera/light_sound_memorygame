@@ -1,0 +1,105 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1.5rem;
+  font-family: Optima, sans-serif;
+  line-height: 1.8;
+  background-color: #3b3a30;
+  color: white; 
+
+}
+h1 {
+  
+  font-family: verdana, arial, sans-serif; 
+  line-height:2;
+
+}
+button {
+  
+  padding: 24px;
+  border-radius: 20px;
+
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+
+#button1 {
+    
+    background:  #c5d5c5;
+}
+#button1:active, #button1.lit {
+    /*color:#77a8a8;*/
+    background:  #c5d5c5;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img1.jpeg?v=1648455688977');
+    background-size: contain; 
+    /* height: 30px;width: 30px;   make this the size of your image */       
+}
+#button2 {
+    background:#cfe0e8;
+}
+#button2:active, #button2.lit {
+    background:#034f84;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img2.jpeg?v=1648455688977');
+    background-size: contain;
+}
+#button3 {
+    background: #e4d1d1;
+}
+#button3:active, #button3.lit {
+    background:#bc5a45;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img3.jpeg?v=1648455688977');
+    background-size: contain;
+}
+#button4 {
+    background: #e3e0cc;
+}
+#button4:active, #button4.lit {
+    background:#cab577;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img4.jpeg?v=1648455688977');
+    background-size: contain;
+}
+#button5 {
+    background:#8d9db6;
+}
+#button5:active, #button5.lit {
+    background:#667292;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img5.jpeg?v=1648455688977');
+    background-size: contain;
+}
+#button6 {
+    background:#9fa9a3;
+}
+#button6:active, #button6.lit {
+    background:#587e76;
+    background-image: url('https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img6.jpeg?v=1648455688977');
+    background-size: contain;
+}
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}

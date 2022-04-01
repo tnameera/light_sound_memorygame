@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+
+  <body>
+    <center>
+      <!-- this is the start of content -->
+      <h1>Light and Sound Memory Game</h1>
+      <p>Welcome to the memory Game!</p>
+      <p>Watch and Repeat the pattern played by pressign buttons!</p>
+      <p>You have: <span id="timer">0</span> seconds remaining!</p>
+      <p></p>
+      <button id="startBtn" onclick="startGame()">Start</button>
+      <p></p>
+      <button id="stopBtn" class="hidden" onclick="stopGame()">End</button>
+      <p></p>
+      <div id="gameButtonArea">
+        <button
+          id="button1"
+          onclick="guess(1)"
+          onmousedown="startTone(1)"
+          onmouseup="stopTone()"
+        >
+          <!--img
+            id="img1"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img1.jpeg?v=1648455688977"
+            alt="GFG image"
+            width="70"
+            height="39"
+          /> -->
+        </button>
+
+        <button
+          id="button2"
+          onclick="guess(2)"
+          onmousedown="startTone(2)"
+          onmouseup="stopTone()"
+        >
+          <!--img<img
+            id="img2"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img2.jpeg?v=1648455684901"
+            alt="GFG image"
+            width="70"
+            height="39"
+          />/> -->
+        </button>
+
+        <button
+          id="button3"
+          onclick="guess(3)"
+          onmousedown="startTone(3)"
+          onmouseup="stopTone()"
+        >
+         <!--i <img
+            id="img3"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img3.jpeg?v=1648455693774"
+            alt="Trulli"
+            width="70"
+            height="39"
+          />/> -->
+        </button>
+        <button
+          id="button4"
+          onclick="guess(4)"
+          onmousedown="startTone(4)"
+          onmouseup="stopTone()"
+        >
+          <!--i<img
+            id="img4"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img4.jpeg?v=1648455704345"
+            alt="GFG image"
+            width="70"
+            height="39"
+          />-->
+        </button>
+
+        <button
+          id="button5"
+          onclick="guess(5)"
+          onmousedown="startTone(5)"
+          onmouseup="stopTone()"
+        >
+          <!--i<img
+            id="img5"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img5.jpeg?v=1648455698634"
+            alt="GFG image"
+            width="70"
+            height="39"
+          />-->
+        </button>
+        <button
+          id="button6"
+          onclick="guess(6)"
+          onmousedown="startTone(6)"
+          onmouseup="stopTone()"
+        >
+          <!--i<img
+            id="img6"
+            src="https://cdn.glitch.global/327fbc6f-20f5-4965-95f5-7503cb705349/img7.jpeg?v=1648455713566"
+            alt="GFG image"
+            width="70"
+            height="39"
+          />-->
+        </button>
+      </div>
+    </center>
+  </body>
+</html>
