@@ -6,7 +6,7 @@ Submitted by: Syeda Nameera Tahseen
 
 Time spent: 10 hours
 
-Link to project: [Link](https://glitch.com/edit/#!/jewel-atlantic-twister?path=README.md%3A9%3A81)
+Link to project: [Link](https://jewel-atlantic-twister.glitch.me/)
 
 ## Required Functionality
 
