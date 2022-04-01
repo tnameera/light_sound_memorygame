@@ -6,7 +6,7 @@ Submitted by: Syeda Nameera Tahseen
 
 Time spent: 10 hours
 
-Link to project: ![Link](https://glitch.com/edit/#!/jewel-atlantic-twister?path=README.md%3A9%3A81)
+Link to project: [Link](https://glitch.com/edit/#!/jewel-atlantic-twister?path=README.md%3A9%3A81)
 
 ## Required Functionality
 
@@ -39,20 +39,20 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![6 buttons](https://www.dropbox.com/s/zv7f03sraa3ougk/gif_6buttons.gif?dl=0)
-![Start Game](https://www.dropbox.com/s/gw4597pwubq1cbt/gif_startgame.gif?dl=0)
-![Loss after 3 attempts](https://www.dropbox.com/s/ytzotih8lw3e1k0/gif_loss_3attempts.gif?dl=0)
-![Win!](https://www.dropbox.com/s/icey46thejnfvlt/gif_win.gif?dl=0)
+[6 buttons](https://www.dropbox.com/s/zv7f03sraa3ougk/gif_6buttons.gif?dl=0)
+[Start Game](https://www.dropbox.com/s/gw4597pwubq1cbt/gif_startgame.gif?dl=0)
+[Loss after 3 attempts](https://www.dropbox.com/s/ytzotih8lw3e1k0/gif_loss_3attempts.gif?dl=0)
+[Win!](https://www.dropbox.com/s/icey46thejnfvlt/gif_win.gif?dl=0)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
    I used the following:
 
-   1. ![W3 Schools](www.w3schools.com)
-   2. ![Stackoverflow](https://stackoverflow.com/)
-   3. ![ezgif.com](https://ezgif.com/)
-   4. ![Sample Game Timer](https://codepen.io/awkay/pen/ExzGea)
+   1. [W3 Schools](www.w3schools.com)
+   2. [Stackoverflow](https://stackoverflow.com/)
+   3. [ezgif.com](https://ezgif.com/)
+   4. [Sample Game Timer](https://codepen.io/awkay/pen/ExzGea)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
